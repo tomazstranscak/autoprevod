@@ -28,7 +28,7 @@ jobs:
         run: |
           python translate.py
 
-      # Commit and push the translated files
+
       - name: Commit translated files
         run: |
           git config --local user.name "github-actions"
