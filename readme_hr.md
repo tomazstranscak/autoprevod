@@ -1,1 +1,1 @@
-kako si?
+dobro jutro
