@@ -27,4 +27,5 @@ if __name__ == "__main__":
         try:
             translate_file(fajl, lang)
         except:
+            print(lang)
             pass
